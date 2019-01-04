@@ -10,7 +10,7 @@ What is DIRB?
 
 DIRB is a Web Content Scanner. It looks for existing (and/or hidden) Web 
 Objects. It basically works by launching a dictionary based attack against 
-a web server and analizing the response.
+a web server and analyzing the response.
 
 DIRB comes with a set of preconfigured attack wordlists for easy usage but 
 you can use your custom wordlists. Also DIRB sometimes can be used as a 
