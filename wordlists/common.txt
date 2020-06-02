@@ -7,6 +7,7 @@
 .cvsignore
 .forward
 .git/HEAD
+.gitignore
 .history
 .hta
 .htaccess
@@ -25,6 +26,7 @@
 .svn/entries
 .swf
 .web
+.well-known
 @
 _
 _adm
