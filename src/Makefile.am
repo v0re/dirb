@@ -11,7 +11,8 @@ base = crea_wordlist.c\
 	calculanec.c\
 	utils.c\
 	options.c\
-	resume.c
+	resume.c\
+	variables.c
 
 dirb_SOURCES = $(base)
 

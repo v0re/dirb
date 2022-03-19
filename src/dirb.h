@@ -8,7 +8,6 @@
 
 #include "global.h"
 #include "variables.h"
-#include "estructuras.h"
 #include "funciones.h"
 
 
