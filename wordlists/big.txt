@@ -1720,6 +1720,7 @@ actualidad
 actualite
 actualites
 actualiza
+actuator
 acura
 ad
 ad-groups
@@ -2398,7 +2399,7 @@ anuncios
 anunturi
 anupam
 anvils
-användare
+anvÃ¤ndare
 anwender
 any
 anymedia
@@ -10142,6 +10143,7 @@ jojo
 joke
 joker
 jokes
+jolokia
 jomsocial
 jomtubefiles
 jon
@@ -11383,6 +11385,7 @@ mappa
 mappe
 mapper
 mapping
+mappings
 mapprint
 mapquest
 maps
@@ -15401,6 +15404,7 @@ restaurant
 restaurante
 restaurantes
 restaurants
+restart
 restore
 restored
 restrict
@@ -16069,7 +16073,7 @@ sec_id
 seccio
 seccion
 secciones
-secci�
+secció
 second
 second-love-nl3
 secondary
